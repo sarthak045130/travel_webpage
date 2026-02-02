@@ -93,36 +93,6 @@
 
 <img height=50 src = "https://skillicons.dev/icons?i=html,css,js" >
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
-
-<!--line-->
- <div align="center">
-  <img src="https://github.com/user-attachments/assets/ee5c5ce7-b244-4e10-a91f-068f17a33609" alt="GSSOC" width="80%">
-</div>
- 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/05ad17cd-64fe-4993-adfc-78c10071b688" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5c3ca05d-0fac-43cc-ada6-0453be9ca0e2" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/50649a4b-669d-4d32-b771-200da207d853" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/apu52/METAVERSE/assets/114172928/e79eb6de-81b1-4ffb-b6ed-f018bb977e88" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="img/VSOC new.png" alt="VSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="img/JWOC.png" alt="JWOC" width="50%">
-</div>
-
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
