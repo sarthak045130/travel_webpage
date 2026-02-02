@@ -28,16 +28,11 @@
 
  <h2>Hi there👋, Enjoy the World of Open source contribution </h2>
 
-
-<p>Hello Coders!!👨‍💻<br> I am Arpan Chowdhury, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
-
-
+ I am Kumar Sarthak Pratik, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
 
 
 <div id="top"></div>
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <h2>Table of Contents🧾</h2>
 
 - [Overview📌](#overview)
@@ -51,14 +46,10 @@
 - [Contributing is fun🧡](#contributing-is-fun)
 <br>
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <h2>Overview📌</h2>
 <p>This repository contains my project on a Travel Website✈️ using HTML, CSS and JavaScript. It features a landing page for a travel tour company website. Finding the perfect travel destination can be a challenge. This project aims to streamline that process🚤. We welcome all contributions to make this a fantastic resource for travelers. Jump in and contribute to this grand project! Read the guidelines📚 and get started building!</p>
 
 <h2>Live Demo</h2>
-
-Check out the live project [here](https://apu52.github.io/Travel_Website/).
 
 <p align="center">
   <img src="https://github.com/avanimathur/Travel_Website/assets/151984867/1024d506-92c6-4b35-a4ab-2d4eaca78199" alt="Live Demo">
@@ -98,38 +89,12 @@ Check out the live project [here](https://apu52.github.io/Travel_Website/).
 
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <h2>Technology Used🚀</h2>
 
 <img height=50 src = "https://skillicons.dev/icons?i=html,css,js" >
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h2>Open-Source-Programmes⭐</h2>
-
- ### This project is now OFFICIALLY accepted for
-
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/86fdb212-c76f-41d0-baaf-a74b3e593b29" />
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c98e2f25-f20e-469c-be0b-d6704edd017f" />
-
-
-### This project was part of following Open Source Programs
-
-![image](https://github.com/user-attachments/assets/81a0a103-8946-4c3c-a393-b965438b5549)
-
-![image](https://github.com/user-attachments/assets/f6cb8621-38e0-48bd-a20d-5a406692d4af)
-
-
-![image](https://github.com/user-attachments/assets/4aa69dee-1d15-4d29-b5c8-f42613a925e9)
-
-
-
-
-
  <div align="center">
   <img src="https://github.com/user-attachments/assets/ee5c5ce7-b244-4e10-a91f-068f17a33609" alt="GSSOC" width="80%">
 </div>
